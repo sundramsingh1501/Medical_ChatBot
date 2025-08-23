@@ -22,7 +22,7 @@ Uses sentence-transformers/all-MiniLM-L6-v2 embeddings from Hugging Face.
 ## Model Details
 
 ### Llama-2-7B-Chat Model:
-- **Source:** [Link](https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main)
+- **Source:**
 - **Description:** An open-source large language model optimized for chat-based interactions, capable of understanding and generating human-like text.
 
 
@@ -42,7 +42,7 @@ To set up Medical_ChatBot, follow these steps:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/shivamkr17/Medical_ChatBot
+(https://github.com/sundramsingh1501/Medical_ChatBot)
 cd Medical_ChatBot
 ```
 ### Install Dependencies:
